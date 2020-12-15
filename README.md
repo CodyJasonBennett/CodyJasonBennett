@@ -1,8 +1,8 @@
 # Cody Bennett
 
-Hi, I’m Cody. Currently, I am based in Austin, working as the lead designer at [Tech Builders](https://linkedin.com/company/tech-builders). I am a designer, full-stack developer, and creator of web & mobile solutions with a focus on motion and user experience.
+Hi, I’m Cody. Currently, I am based in Austin, working as the lead designer at [Tech Builders](https://linkedin.com/company/tech-builders). I am a designer, full-stack developer, and creator of web & mobile solutions with a focus on motion and user experience. If you're interested in the tools and software I use check out my [uses page](https://codyb.co/uses).
 
-In my spare time, I like to write music and [experiment with new tech](https://dribbble.codyb.co). I’m always interested in new projects, so feel free to [drop me a line](https://codyb.co/contact).
+In my spare time, I like to write music and [experiment with new tech](https://github.codyb.co). I’m always interested in new projects, so feel free to [drop me a line](https://codyb.co/contact).
 
 ## My Articles
 - [3 Steps to Meaningful Motion Design](https://codyb.co/articles/3-steps-to-meaningful-motion-design)
