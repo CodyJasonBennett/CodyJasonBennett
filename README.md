@@ -5,6 +5,7 @@ Hi there, I’m Cody. Currently, I am based in Austin, working as the lead desig
 In my spare time, I like to write music and [experiment with new tech](https://github.codyb.co). I’m always interested in new projects, so feel free to [drop me a line](https://codyb.co/contact).
 
 ## My Articles
+- [Modern UX with React Server Components](https://codyb.co/articles/modern-ux-with-react-server-components)
 - [3 Steps to Meaningful Motion Design](https://codyb.co/articles/3-steps-to-meaningful-motion-design)
 - [The Observer API for Modern JavaScript](https://codyb.co/articles/observer-api-for-modern-javascript)
 - [Accessible Motion Design for the Web](https://codyb.co/articles/accessible-motion-design-for-the-web)
