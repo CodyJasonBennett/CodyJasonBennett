@@ -6,5 +6,5 @@ In my spare time, I like to [play/compose music](https://youtube.codyb.co) and w
 
 ## Get in Touch
 - Portfolio: https://codyb.co
-- LinkedIn: https://linkedin.codyb.co
+- Twitter: https://twitter.codyb.co
 - Dribbble: https://dribbble.codyb.co
